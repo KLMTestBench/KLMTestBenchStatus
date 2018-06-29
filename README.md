@@ -1,3 +1,10 @@
 # KLMTestBenchStatus
 Tracking the Status of the KLM Test Bench at Hawaii 
-![Current Scintilator setup](/Setup/ScintilatorSetup.png)
+![Current Scintilator setup](/Setup/ScintilatorSetup.png) 
+
+## Source Code
+The source code for the Test Bench can be found at [KLMTestBench/KLM_workspace](https://github.com/KLMTestBench/KLM_workspace)
+
+## Data Files
+
+For the time beeing the data files are stored at [KLMTestBench/DataFileStorage](https://github.com/KLMTestBench/DataFileStorage)
