@@ -1,2 +1,4 @@
 *.pptx filter=lfs diff=lfs merge=lfs -crlf
 *.png filter=lfs diff=lfs merge=lfs -crlf
+*.root filter=lfs diff=lfs merge=lfs -crlf
+*.xlsx filter=lfs diff=lfs merge=lfs -crlf
