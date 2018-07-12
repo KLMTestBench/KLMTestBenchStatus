@@ -11,4 +11,4 @@ For the time beeing the data files are stored at [KLMTestBench/DataFileStorage](
 
 ##Resuls
 
-[2018_07_06_First_Correlations](results/2018_07_06/README.md)
+[2018_07_06_First_Correlations](results/2018_07_06/)
