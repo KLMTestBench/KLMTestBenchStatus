@@ -1,7 +1,7 @@
 # KLMTestBenchStatus
 
 Tracking the Status of the KLM Test Bench at Hawaii 
-![Current Scintilator setup](/Setup/ScintilatorSetup.png) 
+![Current Scintilator setup](/Setup/setup.png) 
 
 ## Source Code
 
